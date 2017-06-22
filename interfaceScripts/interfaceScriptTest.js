@@ -1,0 +1,3 @@
+
+
+print ('interface script test');
